@@ -6,3 +6,6 @@ This portfolio uses AWS and ReactJS.
 
 Git
 SSH
+HTML
+FontAwesome
+Google Fonts
